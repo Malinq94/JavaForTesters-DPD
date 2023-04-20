@@ -11,6 +11,5 @@ public class Task5 {
     else {
         System.out.println(imie + " ma " + wiek + " lat i jest pełnoletni");
     }
-
     }
 }
