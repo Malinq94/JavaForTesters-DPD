@@ -5,7 +5,12 @@ public class Task1 {
        int a = 123;
        char b = 'D';
        double c = 23d;
-       long d = 1234567890;
+       long d = 123456789011111L;
        boolean e = false;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
     }
 }
