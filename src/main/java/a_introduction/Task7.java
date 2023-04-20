@@ -26,7 +26,7 @@ public class Task7 {
                 System.out.println("Today is Sunday");
                 break;
             default:
-                System.out.println("Looking forward to the Weekend");
+                System.out.println("Looking forward to thWeekend");
         }
 
     }
