@@ -6,7 +6,7 @@ public class Task8 {
 
     public static void main(String[] args) {
         double price = 100.0;
-        double discount = 0.2; // 20% rabatu
+        double discount = 0.2;
 
         double discountedPrice = calculateDiscountedPrice(price, discount);
         System.out.println("Cena po rabacie: " + discountedPrice);
